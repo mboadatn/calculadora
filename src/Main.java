@@ -13,5 +13,6 @@ public class Main {
         System.out.println("Ingrese el primer número");
         int num2 = teclado.nextInt();
 
+
         }
 }
